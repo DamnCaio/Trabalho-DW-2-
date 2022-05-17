@@ -1,0 +1,90 @@
+.um {
+background: url("barraca.jpg");
+height: 1000px;
+width: 1820px;
+padding: 10px 2%;
+}
+
+h1 { 
+text-align: center;
+color: white;
+font-size: 70px;
+}
+
+.dois{
+background: url("lagoinha.jpg");
+height: 1000px;
+width: 1820px;
+padding: 10px 2%;	
+}
+
+h2 { 
+background-color: white;
+color: black;
+font-size: 30px;
+width: 250px;
+}
+
+p { 
+background-color: white;
+text-align: left;
+font-size: 20px;
+width: 500px;
+font-family: serif;
+ }
+
+ ol { 
+background-color: white;
+text-align: left;
+color: black;
+font-size: 20px;
+width: 460px;
+  }
+
+
+.tres{
+background: url("cambirela.jpg");
+height: 1000px;
+width: 1820px;
+padding: 10px 2%;	
+}
+
+h3 { 
+background-color: white;
+color: black;
+font-size: 30px;
+width: 180px;
+}
+
+.quatro { 
+background: url("naufragados.jpg");
+height: 1000px;
+width: 1820px;
+padding: 10px 2%;
+}
+
+h4 { 
+background-color: white;
+color: black;
+font-size: 30px;
+width: 180px;
+}
+
+.final { 
+background-color: #e8ddbd;
+width: 1820px;
+height: 400px ;
+padding: 1px 2%;
+ }
+
+ h5 {
+text-align: left;
+color: black;
+font-size: 40px;
+}
+
+h6 {
+font-size: 20px;
+color: black;
+width: 450px;
+}
